@@ -1,5 +1,4 @@
-# 001_repository
+
 Hello
 
-My name is Mateusz I am looking forward to create some useful software
-First repository prior to what I have learned from Python crash course book.
+This is my first repository to manage my progress in Python programming and learn how does a repository work.
