@@ -1,5 +1,5 @@
 # 001_repository
 Hello
 
-My name is Mateusz I am looking forward to master Python and create some useful software.
-Just clicking around to see how it all works.
+My name is Mateusz I am looking forward to create some useful software
+First repository prior to what I have learned from Python crash course book.
