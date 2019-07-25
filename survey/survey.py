@@ -1,5 +1,5 @@
 class AnonymousSurvey():
-    """collect anoonyomus answers to a survey questiob"""
+    """collect anonymous answers to a questionnaire"""
 
     def __init__(self, question):
         """store a question, prepare for responses storage"""
