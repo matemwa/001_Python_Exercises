@@ -2,7 +2,7 @@ class AnonymousSurvey():
     """collect anoonyomus answers to a survey questiob"""
 
     def __init__(self, question):
-        """store a question, [re[are fpr responses storage"""
+        """store a question, prepare for responses storage"""
         self.question = question
         self.responses = []
 
